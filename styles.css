@@ -1,0 +1,27 @@
+.container{
+  background-color: #005ce6;
+  padding:20px;
+}
+.navbar{
+  padding:0px;
+  /* border: 3px solid #03327c; */
+}
+.cardimage{
+  height: 60%;
+  width: auto;
+  padding:0px
+}
+.card-deck{
+  padding: 10px;
+  height:350px;
+}
+.logo{
+  height:55px;
+  width:750px;
+  align-self: center;
+  padding: 10px;
+  padding-right: 0px;
+}
+/* body{ */
+/* background-color:#828c9b; */
+/* } */
